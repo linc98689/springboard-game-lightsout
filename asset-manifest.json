@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/springboard-lightsout/static/css/main.8a27e53e.css",
+    "main.js": "/springboard-lightsout/static/js/main.6f3f3a55.js",
+    "static/js/496.34389e38.chunk.js": "/springboard-lightsout/static/js/496.34389e38.chunk.js",
+    "index.html": "/springboard-lightsout/index.html",
+    "main.8a27e53e.css.map": "/springboard-lightsout/static/css/main.8a27e53e.css.map",
+    "main.6f3f3a55.js.map": "/springboard-lightsout/static/js/main.6f3f3a55.js.map",
+    "496.34389e38.chunk.js.map": "/springboard-lightsout/static/js/496.34389e38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a27e53e.css",
+    "static/js/main.6f3f3a55.js"
+  ]
+}
